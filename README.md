@@ -1,1 +1,2 @@
 # opworld
+Musisz pobrać pythona z: https://www.python.org/downloads/ i pobrać te pliki. Otwórz terminal w folderze w którym masz skrypt i wpisz w linuxie: source myvenv/bin/activate a w Windowsie w PowerShellu: venv/bin/activate. Na początku powinien być (myvenv). Teraz na Linuxie: python3 allow_cm.py "np. /home/example/swiat/level.dat" i powinno edytować level.dat i  zamienić allowCommands na 1. A na Windows: python allow_cm.py "np. C:/Users/example/appdata/.minecraft/saves/new world/level.dat".
